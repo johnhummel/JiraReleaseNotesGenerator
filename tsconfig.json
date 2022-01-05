@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "commonjs",
+    "outDir": "out",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "sourceMap": true
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "jiraSite": "https://gethired.atlassian.net/",
+    "username": "YOUR JIRA EMAIL ADDRESS",
+    "password": "YOUR JIRA TOKEN"
+}
